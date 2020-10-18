@@ -1,0 +1,12 @@
+name: Test_for_Vlad
+title: Test_for_Vlad
+username:
+account: dbaissa
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3043170
+bundleId: 3755277
+url: https://dbaissa.shinyapps.io/Test_for_Vlad/
+when: 1603044304.84335
+asMultiple: FALSE
+asStatic: FALSE
